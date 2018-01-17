@@ -1,0 +1,30 @@
+#page1 h1 {
+	color: #E91E63 !important;
+}
+
+#page1 .box-images {
+	width: 100%;
+	max-width: 400px;
+	border: 1px solid #7E57C2;
+	margin: auto;
+	padding: 0 10px;
+}
+
+#page1 img {
+	width: 100%;
+	display: block;
+	margin: 10px auto;
+}
+
+01/02
+18h
+
+Rua França Carvalho, 274 - Mooca
+
+Fones (11) 2604-7565 | 2268-3601 | 2601-8600 | 2601-8686
+Dra. Arani Francisca do Nascimento
+
+Médico (Endocrinologista)
+#page2 h1 {
+	color: #8BC34A !important;
+}

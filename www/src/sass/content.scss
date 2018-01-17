@@ -1,0 +1,29 @@
+#content {
+	background: #E3F2FD;
+	margin: 20px;
+	padding: 10px;
+
+	h2 {
+		color: #2962FF;
+		text-decoration: underline;
+		padding-bottom: 10px;
+	}
+
+	p {
+		color: #311B92;
+
+		i {
+			font-weight: bold;
+			font-size: 20px;
+		}
+	}
+
+	.btn {
+		display: inline-block;
+		padding: 10px;
+		margin: 5px;
+		background: #2962FF;
+		color: #FFFFFF;
+		cursor: pointer;
+	}
+}
